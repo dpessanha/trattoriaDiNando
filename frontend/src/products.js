@@ -8,7 +8,7 @@ const products = [
     category: 'massas',
     price: 18.0,
     countInStock: 3,
-    rating: 4.5,
+    rating: 1.5,
     numReviews: 4,
   },
   {
@@ -20,7 +20,7 @@ const products = [
     category: 'bebidas',
     price: 10.0,
     countInStock: 20,
-    rating: 5,
+    rating: 2,
     numReviews: 6,
   },
   {
@@ -32,7 +32,7 @@ const products = [
     category: 'bebidas',
     price: 6.0,
     countInStock: 20,
-    rating: 5,
+    rating: 4.5,
     numReviews: 8,
   },
   {
@@ -80,7 +80,7 @@ const products = [
     category: 'massas',
     price: 18.0,
     countInStock: 5,
-    rating: 4.5,
+    rating: 4,
     numReviews: 10,
   },
   {
@@ -92,7 +92,7 @@ const products = [
     category: 'bebidas',
     price: 10.0,
     countInStock: 10,
-    rating: 4.5,
+    rating: 4,
     numReviews: 17,
   },
   {
@@ -104,7 +104,7 @@ const products = [
     category: 'bebidas',
     price: 6.0,
     countInStock: 15,
-    rating: 4.5,
+    rating: 3.5,
     numReviews: 27,
   },
   {
@@ -128,7 +128,7 @@ const products = [
     category: 'bebidas',
     price: 10.0,
     countInStock: 15,
-    rating: 5,
+    rating: 3.5,
     numReviews: 33,
   },
   {
@@ -140,7 +140,7 @@ const products = [
     category: 'bebidas',
     price: 6.0,
     countInStock: 35,
-    rating: 5,
+    rating: 3.5,
     numReviews: 22,
   },
   {
@@ -152,7 +152,7 @@ const products = [
     category: 'massas',
     price: 18.0,
     countInStock: 5,
-    rating: 4.1,
+    rating: 4,
     numReviews: 4,
   },
   {
@@ -164,7 +164,7 @@ const products = [
     category: 'massas',
     price: 18.0,
     countInStock: 6,
-    rating: 4.9,
+    rating: 4,
     numReviews: 7,
   },
   {
@@ -176,7 +176,7 @@ const products = [
     category: 'bebidas',
     price: 10.0,
     countInStock: 16,
-    rating: 5,
+    rating: 3.5,
     numReviews: 10,
   },
   {
@@ -188,7 +188,7 @@ const products = [
     category: 'bebidas',
     price: 6.0,
     countInStock: 26,
-    rating: 5,
+    rating: 4,
     numReviews: 16,
   },
 ]
